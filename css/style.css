@@ -17,6 +17,10 @@ body{
   background-size: cover;
 }
 
+.navbar-toggler-icon{
+  background-color: #a59611;
+}
+
 .navbar-brand{
   padding: 1rem;
   padding-bottom: 10px;
